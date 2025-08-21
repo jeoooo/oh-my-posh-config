@@ -1,4 +1,4 @@
-oh-my-posh init pwsh --config "C:\Users\Legion\Documents\Powershell\config.json" | Invoke-Expression
+oh-my-posh init pwsh --config "C:\Users\<USERNAME>\Documents\Powershell\config.json" | Invoke-Expression
 
 # Download best MP4 (H.264 + AAC preferred, fallback safe)
 function ytdlpmp4 {
